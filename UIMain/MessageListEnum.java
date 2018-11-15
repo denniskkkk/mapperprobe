@@ -1,0 +1,9 @@
+package UIMain;
+
+/**
+ *
+ * @author de
+ */
+public enum MessageListEnum {
+      NORMAL, INFO, WARNING, ERROR, SCAN_CONNECTED, SCAN_LOOPBACK, SCAN_UNCONNECTED, SCAN_GROUND, SCAN_ERROR, TEST_PASS, TEST_FAIL, TEST_LOOPBACK, TEST_ERROR
+}
